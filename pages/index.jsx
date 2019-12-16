@@ -20,8 +20,8 @@ const PageOne = () => {
     >
       <Head>
         <title>Page One</title>
-        <meta name="og:description" content="Amid AOC pressure" />
-        <meta name="og:keywords" content="amid,pressure,Pelosi" />
+        <meta name="description" content="Amid AOC pressure" />
+        <meta name="keywords" content="amid,pressure,Pelosi" />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
       <h1>This is page1</h1>

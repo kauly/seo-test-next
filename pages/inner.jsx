@@ -21,8 +21,8 @@ const PageTwo = () => {
     >
       <Head>
         <title>Page Two</title>
-        <meta name="og:description" content="This is page2" />
-        <meta name="og:keywords" content="page2, page, is page" />
+        <meta name="description" content="This is page2" />
+        <meta name="keywords" content="page2, page, is page" />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
       <h1>This is page2</h1>
